@@ -1,0 +1,14 @@
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.AssemblyInfoInputs.cache
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.AssemblyInfo.cs
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.csproj.CoreCompileInputs.cache
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\bin\Debug\net6.0\EX3.exe
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\bin\Debug\net6.0\EX3.deps.json
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\bin\Debug\net6.0\EX3.runtimeconfig.json
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\bin\Debug\net6.0\EX3.dll
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\bin\Debug\net6.0\EX3.pdb
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.dll
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\refint\EX3.dll
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.pdb
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\EX3.genruntimeconfig.cache
+C:\Users\Louay\Desktop\Cours L3\C#\Louay\TP2\EX3\EX3\obj\Debug\net6.0\ref\EX3.dll
